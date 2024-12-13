@@ -5,6 +5,7 @@ export default defineConfig({
   title: "Serein Docs",
   description: "",
   appearance: "dark",
+  head: [['link', { rel: 'icon', href: '/light-logo.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
