@@ -26,13 +26,14 @@ export default defineConfig({
           text: 'Docker',
           items: [
             { text: 'DockerFile', link: '/docker/DockerFile' },
+            { text: 'Golang', link: '/docker/Golang' },
+            { text: 'NginxAndFront', link: '/docker/NginxAndFront' },
             { text: 'DockerRegistry', link: '/docker/DockerRegistry' },
             { text: 'Elasticsearch', link: '/docker/Elasticsearch' },
             { text: 'Kibana', link: '/docker/Kibana' },
             { text: 'Minio', link: '/docker/Minio' },
             { text: 'MySql5.7', link: '/docker/MySql5.7' },
             { text: 'nacos2.1.1', link: '/docker/nacos2.1.1' },
-            { text: 'NginxAndVue', link: '/docker/NginxAndVue' },
             { text: 'Redis', link: '/docker/Redis' },
           ]
         }
