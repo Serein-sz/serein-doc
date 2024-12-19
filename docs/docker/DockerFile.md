@@ -1,12 +1,5 @@
-<script setup>
-import Logo from '../components/logo.vue'
-import { useData } from 'vitepress'
+# DockerFile <Logo />
 
-const { site: { appearance } } = useData();
-</script>
-
-# DockerFile 
-<Logo />
 
 ## 基础知识
 1. 每条保留字指令都必须为大写字母且后面要跟随至少一个参数

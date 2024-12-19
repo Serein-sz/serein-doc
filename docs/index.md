@@ -10,9 +10,6 @@ hero:
     - theme: brand
       text: DockerFile Examples
       link: /docker/DockerFile
-    # - theme: alt
-    #   text: API Examples
-    #   link: /api-examples
 
 features:
   - title: Feature A
@@ -23,3 +20,6 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+
+
+ 
